@@ -42,7 +42,7 @@ let n = 0
 
 function a() {
     // bodyId.textContent = n
-    alert(n)
+    console.log("Було зробленро кліків:",n)
 }
 
 function clickOnBody() {
